@@ -10,10 +10,6 @@
    <img src="https://img.shields.io/badge/Install-Script-blue.svg" alt="Install Script">
    </a>
 
-## Links
-- GitHub Repository: [suraj-xd/auto-connect-wifi](https://github.com/suraj-xd/az-video-bypass)
-
-
 
 # How to Bypass! 🔓
 <br></br>
@@ -39,3 +35,7 @@
 Utilize this tool for taking comprehensive notes and enhancing your offline learning experience. 
 
 ## Happy coding! 🚀
+
+## Links
+- GitHub Repository: [suraj-xd/auto-connect-wifi](https://github.com/suraj-xd/az-video-bypass)
+
