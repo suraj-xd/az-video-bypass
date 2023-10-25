@@ -24,7 +24,9 @@
 <div align="center">
   <img src="share.png" alt="Share" style="margin: 10px; padding: 10px; border: 4px solid #000; border-radius: 10px;">
 </div>
-### 🎉Now, you can record or take screenshots without experiencing screen blackout.
+
+###  🎉Now, you can record or take screenshots without experiencing screen blackout.
+
 <br></br>
 
 3. **Deactivation:** When you've finished, click on "Deactivate" to return to normal mode. 
