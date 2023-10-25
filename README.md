@@ -37,5 +37,5 @@ Utilize this tool for taking comprehensive notes and enhancing your offline lear
 ## Happy coding! 🚀
 
 ## Links
-- GitHub Repository: [suraj-xd/auto-connect-wifi](https://github.com/suraj-xd/az-video-bypass)
+- GitHub Repository: [suraj-xd/az-video-bypass](https://github.com/suraj-xd/az-video-bypass)
 
