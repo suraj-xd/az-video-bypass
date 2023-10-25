@@ -13,21 +13,29 @@
 ## Links
 - GitHub Repository: [suraj-xd/auto-connect-wifi](https://github.com/suraj-xd/az-video-bypass)
 
----
+
 
 # How to Bypass! 🔓
+<br></br>
+1. **Activation:** You'll find a button in 'Bottom Right' corner, Locate and click the "Activate". 
+<div align="center">
+  <img src="activate.png" alt="Activate" style="margin: 10px; padding: 10px; border: 4px solid #000; border-radius: 10px;">
+</div>
+<br></br>
 
-1. **Activation:** Locate and click the "Activate" button. 
-   ![Activate](activate.png)
 
-2. **Start Sharing:** Select the desired window/tab and commence sharing. You're all set! 
-   ![Share](share.png)
-
-   Now, you can record or take screenshots without experiencing screen blackout.
+2. **Start Sharing:** Select the window and commence sharing. You're all set! 
+<div align="center">
+  <img src="share.png" alt="Share" style="margin: 10px; padding: 10px; border: 4px solid #000; border-radius: 10px;">
+</div>
+### 🎉Now, you can record or take screenshots without experiencing screen blackout.
+<br></br>
 
 3. **Deactivation:** When you've finished, click on "Deactivate" to return to normal mode. 
-   ![Deactivate](deactivate.png)
-
+<div align="center">
+  <img src="deactivate.png" alt="Deactivate" style="margin: 10px; padding: 10px; border: 4px solid #000; border-radius: 10px;">
+</div>
+<br></br>
 Utilize this tool for taking comprehensive notes and enhancing your offline learning experience. 
 
 ## Happy coding! 🚀
